@@ -37,6 +37,41 @@ SustainaX integrates sustainability-related datasets from **Kaggle** to power it
 - **Impact Dashboard** – Shows user’s carbon savings and eco-achievement progress.  
 
 ---
+## 🗓️ Week 1 – Progress Summary  
+
+During **Week 1**, the main objective was to **set up the project environment** and complete initial submissions as per AICTE–Edunet internship guidelines.  
+
+### ✅ Work Done:
+- Logged into **Skills4Future LMS** and created the **GitHub repository (Week 1)**.  
+- Downloaded the **dataset** from the provided AICTE portal.  
+- Added a **README file** and uploaded the initial project structure to GitHub.  
+- Understood the **project flow**, milestones, and dataset usage.  
+- Submitted the **Week 1 GitHub repository link** in the LMS portal.  
+
+### 🌱 Improvisations:
+- Added project overview and objective in README.  
+- Organized files properly for easy navigation.  
+- Verified dataset compatibility with the planned AI model.  
+
+---
+
+## 🗓️ Week 2 – Progress Summary  
+
+In **Week 2**, the focus was on building the **AI model** and creating the **Streamlit interface** for SustainaX.  
+
+### ✅ Work Done:
+- Integrated the **Kaggle sustainable products dataset**.  
+- Applied **TF-IDF** and **cosine similarity** to recommend eco-friendly product alternatives.  
+- Developed a **Streamlit web interface** for user input and displaying recommendations.  
+- Improved **data accuracy** and fixed UI responsiveness.  
+- Uploaded the **Week 2 updated project** on GitHub and submitted the link in LMS.  
+
+### 🌱 Improvisations:
+- Enhanced recommendation accuracy using optimized NLP preprocessing.  
+- Added eco-score calculation for better sustainability comparison.  
+- Improved output display and user interaction on the Streamlit UI.  
+
+---
 
 ## 👩‍💻 Developed by
 **Mahesh Modugu**  
