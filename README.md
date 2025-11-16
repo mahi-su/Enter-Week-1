@@ -1,23 +1,38 @@
-# 🌿 SustainaX – AI-Driven Eco-Friendly Product Recommendation System
-
-*SustainaX* is an AI-powered Progressive Web Application developed under the **AICTE – Edunet Virtual Internship Program**.  
-The project promotes **environmental sustainability** by providing intelligent eco-friendly product recommendations, cost analysis, and carbon impact insights.
-
----
-
-## 🎯 Objective
-To build an AI-driven web platform that helps users discover sustainable alternatives to everyday products.  
-The system recommends **eco-friendly options** using AI-based product analysis, material sustainability scoring, and real-time availability mapping.
+# 🌿 SustainaX – AI-Driven Eco-Friendly Product Recommendation System  
+*A Web Application built using React + TypeScript + Tailwind CSS*  
+**Developed under the AICTE – Edunet Virtual Internship Program**
 
 ---
 
-## ⚙ Tools & Technologies
-- **Languages:** JavaScript, TypeScript , Html 
-- **Frameworks & Libraries:** React, Flask, Tailwind CSS  
-- **Tools:** Jupyter Notebook, VS Code, GitHub  
+## 📘 Overview  
+**SustainaX** is a modern, responsive web platform designed to promote sustainable living by helping users discover eco-friendly product alternatives.  
+This project is built using **React + TypeScript + Tailwind CSS** and structured with **shadcn/ui components**, offering a clean and interactive user experience.
+
+The app provides sustainability insights, awareness content, and a smooth UI for browsing eco-friendly product information.
 
 ---
 
+## 🎯 Objective  
+To design and develop an interactive, user-friendly web interface that helps users explore greener product choices using sustainability insights and curated datasets.
+
+---
+
+## ⚙️ Tech Stack  
+
+### **Frontend Technologies**
+- **React 18**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Shadcn/UI**
+- **Lucide Icons**
+
+### **Development Tools**
+- VS Code  
+- Node.js + npm  
+- Git & GitHub
+  
+---
 ## 📁 Datasets Used
 SustainaX integrates sustainability-related datasets from **Kaggle** to power its eco-product intelligence and environmental analysis.
 
@@ -25,59 +40,70 @@ SustainaX integrates sustainability-related datasets from **Kaggle** to power it
 |---|---------------|---------|----------|
 | 1️⃣ | [Amazon Eco-Friendly Products Dataset](https://www.kaggle.com/datasets/sofikulislam/amazon-eco-friendly-products-dataset) | Kaggle | Core product recommendation dataset containing eco-friendly products and descriptions |
 | 2️⃣ | [Sustainable Fashion (Eco-Friendly Trends)](https://www.kaggle.com/datasets/waqi786/sustainable-fashion-eco-friendly-trends) | Kaggle | Apparel and fashion sustainability data |
+---
+
+## 🧠 Core Features  
+- 🌱 Eco-friendly product exploration  
+- 📦 Reusable UI components  
+- 🎨 Tailwind CSS–based modern design  
+- 📱 Fully responsive layout  
+- 🔍 Simple and intuitive navigation  
+- 🧩 Sustainability insights & awareness content  
 
 ---
 
-## 🧠 Core Features
-- **AI Product Recommendation Engine** – Suggests sustainable product alternatives.  
-- **Cost Estimation System** – Compares prices between conventional and eco-friendly options.  
-- **Sustainability Scoring** – Evaluates carbon footprint, material recyclability, and energy impact.  
-- **Availability Mapping** – Displays online/local store options via Google Maps API.  
-- **Awareness Hub** – Curated learning resources on sustainability topics.  
-- **Impact Dashboard** – Shows user’s carbon savings and eco-achievement progress.  
+# 🗓️ Internship Weekly Progress  
 
----
-## 🗓️ Week 1 – Progress Summary  
+## 🗓️ Week 1 – Setup & Initialization  
 
-During **Week 1**, the main objective was to **set up the project environment** and complete initial submissions as per AICTE–Edunet internship guidelines.  
+### ✅ Work Done  
+- Logged into **Skills4Future LMS** and understood milestone workflow.  
+- Created **GitHub repository for Week 1 submission**.  
+- Downloaded dataset from AICTE portal/Kaggle.  
+- Set up project environment in VS Code.  
+- Initialized project through **Lovable.dev** → auto-generated React + TS project.  
+- Uploaded Week 1 project files to GitHub and submitted the link on LMS.
 
-### ✅ Work Done:
-- Logged into **Skills4Future LMS** and created the **GitHub repository (Week 1)**.  
-- Downloaded the **dataset** from the provided AICTE portal.  
-- Added a **README file** and uploaded the initial project structure to GitHub.  
-- Understood the **project flow**, milestones, and dataset usage.  
-- Submitted the **Week 1 GitHub repository link** in the LMS portal.  
-
-### 🌱 Improvisations:
-- Added project overview and objective in README.  
-- Organized files properly for easy navigation.  
-- Verified dataset compatibility with the planned AI model.  
+### 🌱 Improvisations  
+- Enhanced project folder organization.  
+- Added introduction and objective in README.  
 
 ---
 
-## 🗓️ Week 2 – Progress Summary  
+## 🗓️ Week 2 – UI Development & Dataset Preparation  
 
-In **Week 2**, the focus was on building the **AI model** and creating the **Streamlit interface** for SustainaX.  
+### ✅ Work Done  
+- Explored eco-friendly product and sustainable fashion datasets.  
+- Developed UI sections using **React + Tailwind CSS**.  
+- Implemented page layouts, navigation, and component structure.  
+- Added reusable components (cards, navbar, buttons, modals).  
+- Updated GitHub with Week 2 progress.
 
-### ✅ Work Done:
-- Integrated the **Kaggle sustainable products dataset**.  
-- Applied **TF-IDF** and **cosine similarity** to recommend eco-friendly product alternatives.  
-- Developed a **Streamlit web interface** for user input and displaying recommendations.  
-- Improved **data accuracy** and fixed UI responsiveness.  
-- Uploaded the **Week 2 updated project** on GitHub and submitted the link in LMS.  
-
-## 🗓️ Week 3 – Final Project Summary  
-
-### ✅ Work Completed:
-- Completed **integration of all datasets** into the Streamlit application.  
-- Finalized **AI recommendation system** using **TF-IDF Vectorization** and **Cosine Similarity** for product matching.  
-- Added **data visualization dashboards** for sustainability insights using Plotly and Streamlit charts.  
-- Designed a **clean and responsive UI** with sections for product search, eco-score, and fashion analytics.  
-- Tested the app thoroughly for performance and data consistency.  
-- Deployed the final working version on **Streamlit Cloud** and submitted GitHub repository link in the LMS portal.
+### 🌱 Improvisations  
+- Improved styling consistency using Tailwind utilities.  
+- Enhanced responsiveness across devices.  
 
 ---
 
+## 🗓️ Week 3 – Final Development & Documentation  
+
+### ✅ Work Completed  
+- Finalized UI, layout, and complete page flow.  
+- Improved TypeScript integration and cleaned code structures.  
+- Added sustainability awareness components and improved readability.  
+- Fully tested the app in Vite development environment.  
+- Uploaded final project ZIP + GitHub repository link to LMS.
+
+---
+
+## 🧩 Deployment  
+This project can be deployed on:  
+- **Vercel**  
+- **Netlify**  
+- **GitHub Pages**  
+- **VS Code**
+
+---
 ### 🌱 Improvisations & Enhancements:
 - Improved model accuracy by optimizing text preprocessing (stopword removal, lemmatization).  
 - Enhanced recommendation ranking logic to prioritize higher eco-scores.  
@@ -91,14 +117,14 @@ In **Week 2**, the focus was on building the **AI model** and creating the **Str
 
 ---
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed by  
 **Mahesh Modugu**  
 B.Tech CSE (AIML)  
 Roll No: 23U11A6671  
-Under *AICTE – Edunet Virtual Internship Program*
+AICTE – Edunet Virtual Internship Program  
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.  
-See the [LICENSE](./LICENSE) file for details.
+## 📜 License  
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with attribution.
