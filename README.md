@@ -66,6 +66,24 @@ In **Week 2**, the focus was on building the **AI model** and creating the **Str
 - Improved **data accuracy** and fixed UI responsiveness.  
 - Uploaded the **Week 2 updated project** on GitHub and submitted the link in LMS.  
 
+## 🗓️ Week 3 – Final Project Summary  
+
+### ✅ Work Completed:
+- Completed **integration of all datasets** into the Streamlit application.  
+- Finalized **AI recommendation system** using **TF-IDF Vectorization** and **Cosine Similarity** for product matching.  
+- Added **data visualization dashboards** for sustainability insights using Plotly and Streamlit charts.  
+- Designed a **clean and responsive UI** with sections for product search, eco-score, and fashion analytics.  
+- Tested the app thoroughly for performance and data consistency.  
+- Deployed the final working version on **Streamlit Cloud** and submitted GitHub repository link in the LMS portal.
+
+---
+
+### 🌱 Improvisations & Enhancements:
+- Improved model accuracy by optimizing text preprocessing (stopword removal, lemmatization).  
+- Enhanced recommendation ranking logic to prioritize higher eco-scores.  
+- Added visualization for **Average Carbon Footprint by Material** from the Sustainable Fashion dataset.  
+- Optimized CSV data loading and caching for faster app performance.  
+- Included informative messages and progress indicators for better user experience. 
 ### 🌱 Improvisations:
 - Enhanced recommendation accuracy using optimized NLP preprocessing.  
 - Added eco-score calculation for better sustainability comparison.  
