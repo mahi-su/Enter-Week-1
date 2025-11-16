@@ -12,7 +12,7 @@ The system recommends **eco-friendly options** using AI-based product analysis, 
 ---
 
 ## ⚙ Tools & Technologies
-- **Languages:** Python, JavaScript, TypeScript  
+- **Languages:** JavaScript, TypeScript , Html 
 - **Frameworks & Libraries:** React, Flask, Tailwind CSS  
 - **Tools:** Jupyter Notebook, VS Code, GitHub  
 
